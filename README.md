@@ -9,7 +9,7 @@ This hub organizes my projects, from learning experiments to full-fledged applic
 These are larger projects that demonstrate significant functionality and full-stack capabilities.  
 *(Currently placeholders — to be updated as I complete bigger projects.)*
 
-- **[Project Name](link-to-repo)** – Short description.  
+- **[Project Name]()** – Short description.  
   **Tech Stack:** Add your technologies.  
   **Notes:** Optional highlights.
 
