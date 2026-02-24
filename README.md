@@ -27,7 +27,7 @@ These projects showcase my learning journey, experimentation, and skill-building
 
 ### 2. [Personality Quiz](https://github.com/vaishnaviPR-hash/Personality-Quiz)
 - **Description:** A quiz app to explore personality types.  
-- **Tech Stack:** React  
+- **Tech Stack:** JavaScript, HTML, CSS
 - **Notes:** Practiced state management, component structuring, and basic routing.
 
 ### 3. [Type Tutor](https://github.com/vaishnaviPR-hash/TypingTutor-Communication-Helper)
