@@ -13,8 +13,6 @@ These are larger projects that demonstrate significant functionality and full-st
   **Tech Stack:** Add your technologies.  
   **Notes:** Optional highlights.
 
-> These projects will be the main showcase of my skills as they are completed.
-
 ---
 
 ## 🧠 Learning / Experimental Projects
@@ -44,6 +42,25 @@ These projects showcase my learning journey, experimentation, and skill-building
 - **Description:** ML-based system recommending crops based on soil data.  
 - **Tech Stack:** Python, Scikit-Learn  
 - **Notes:** Practiced working with datasets, preprocessing, and ML models.
+
+---
+## 🤝 Contributions & Collaborations
+
+### 🏠 [SHARP-HEMS](https://github.com/supriya-07G/SHARP-HEMS)
+A smart home energy management system combining IoT, AI/RL, Raspberry Pi, and a web dashboard.
+
+**My contributions:**
+* Dashboard development
+* HiveMQ integration
+* Raspberry Pi ↔ dashboard integration
+* RL model integration with the Raspberry Pi/dashboard workflow
+
+### 🔬 [Cosmora](https://github.com/supriya-07G/BioNano-Sim)
+A computational platform for biomolecular and nanomechanical simulation and analysis.
+
+**My contributions:**
+* Dashboard development and improvements
+* Partial contribution to ML model training
 
 ---
 
