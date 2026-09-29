@@ -13,6 +13,10 @@ These are larger projects that demonstrate significant functionality and full-st
   **Tech Stack:** Add your technologies.  
   **Notes:** Optional highlights.
 
+AIQIRS — In Progress – An AI-powered intelligent question and information retrieval system currently under development.
+Multimodal Fake News Detection — In Progress – A multimodal AI platform that analyzes text and visual information to detect potentially misleading or fake news.
+These projects are currently under development and will continue to evolve as new features and integrations are completed.
+
 ---
 
 ## 🧠 Learning / Experimental Projects
