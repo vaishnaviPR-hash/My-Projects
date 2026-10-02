@@ -22,30 +22,39 @@ These projects are currently under development and will continue to evolve as ne
 ## 🧠 Learning / Experimental Projects
 These projects showcase my learning journey, experimentation, and skill-building.
 
-### 1. [Seasonal Quotes](https://github.com/vaishnaviPR-hash/Seasonal-Quotes)
+### 🤖 ML Learning Projects
+
+### 1. [Medicine Review Sentiment Analyzer](https://github.com/vaishnaviPR-hash/NLP-ML-Based-Sentiment-Analysis-of-Medicine-Reviews-)
+- **Description:** An NLP-based medicine review sentiment analyzer using a multi-task BERT model.
+- **Tech Stack:** Python, PyTorch, Transformers, FastAPI
+- **Notes:** Explored NLP, sentiment analysis, BERT, multi-task learning, and model deployment.
+
+### 2. [Crop Recommendation System](https://github.com/vaishnaviPR-hash/Crop-Recommendation-System)
+- **Description:** ML-based system recommending crops based on soil data.  
+- **Tech Stack:** Python, Scikit-Learn  
+- **Notes:** Practiced working with datasets, preprocessing, and ML models.
+
+### 🌐 Web Development Learning Projects
+
+### 3. [Seasonal Quotes](https://github.com/vaishnaviPR-hash/Seasonal-Quotes)
 - **Description:** A small app showing quotes for each season.  
 - **Tech Stack:** JavaScript, HTML, CSS  
 - **Notes:** Practiced DOM manipulation, event handling, and styling.
 
-### 2. [Personality Quiz](https://github.com/vaishnaviPR-hash/Personality-Quiz)
+### 4. [Personality Quiz](https://github.com/vaishnaviPR-hash/Personality-Quiz)
 - **Description:** A quiz app to explore personality types.  
 - **Tech Stack:** JavaScript, HTML, CSS
 - **Notes:** Practiced state management, component structuring, and basic routing.
 
-### 3. [Type Tutor](https://github.com/vaishnaviPR-hash/TypingTutor-Communication-Helper)
-- **Description:** Typing tutor is designed for kids to help them learn to use a keyboard .  
+### 5. [Type Tutor](https://github.com/vaishnaviPR-hash/TypingTutor-Communication-Helper)
+- **Description:** Typing tutor is designed for kids to help them learn to use a keyboard.  
 - **Tech Stack:** HTML, CSS, JavaScript  
 - **Notes:** Practiced DOM events, timers, and dynamic feedback.
 
-### 4. [Simple To-Do List](https://github.com/vaishnaviPR-hash/Simple-To-Do-List)
+### 6. [Simple To-Do List](https://github.com/vaishnaviPR-hash/Simple-To-Do-List)
 - **Description:** Basic task manager to add, complete, and remove tasks.  
 - **Tech Stack:** JavaScript, HTML, CSS  
 - **Notes:** Practiced front-end CRUD operations and responsive UI.
-
-### 5. [Crop Recommendation System](https://github.com/vaishnaviPR-hash/Crop-Recommendation-System)
-- **Description:** ML-based system recommending crops based on soil data.  
-- **Tech Stack:** Python, Scikit-Learn  
-- **Notes:** Practiced working with datasets, preprocessing, and ML models.
 
 ---
 ## 🤝 Contributions & Collaborations
