@@ -6,9 +6,6 @@ This hub organizes my projects, from learning experiments to full-fledged applic
 ---
 
 ## 🚀 Portfolio / Showcase Projects
-These are larger projects that demonstrate significant functionality and full-stack capabilities.  
-
-## 🚀 Portfolio / Showcase Projects
 
 These are larger projects that demonstrate significant functionality, technical depth, and application development.
 
