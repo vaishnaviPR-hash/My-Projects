@@ -7,15 +7,24 @@ This hub organizes my projects, from learning experiments to full-fledged applic
 
 ## 🚀 Portfolio / Showcase Projects
 These are larger projects that demonstrate significant functionality and full-stack capabilities.  
-*(Currently placeholders — to be updated as I complete bigger projects.)*
 
-- **[Project Name]()** – Short description.  
-  **Tech Stack:** Add your technologies.  
-  **Notes:** Optional highlights.
+## 🚀 Portfolio / Showcase Projects
 
-AIQIRS — In Progress – An AI-powered intelligent question and information retrieval system currently under development.
-Multimodal Fake News Detection — In Progress – A multimodal AI platform that analyzes text and visual information to detect potentially misleading or fake news.
-These projects are currently under development and will continue to evolve as new features and integrations are completed.
+These are larger projects that demonstrate significant functionality, technical depth, and application development.
+
+### 1. [AIQIRS – AI-Powered Issue and Query Resolution System](https://github.com/vaishnaviPR-hash/AI-Powered-Issue-and-Query-Resolution-System)
+- **Description:** A multi-organization platform for submitting, tracking, and resolving complaints, featuring role-based access, centralized dashboards, and AI-assisted FAQ suggestions.
+- **Tech Stack:** React.js, Node.js, Express.js, Firebase Authentication, Cloud Firestore
+- **Notes:** Developed a full-stack complaint management system with multi-organization support, authentication, and role-based access control.
+- **Status:** In Progress
+
+### 2. [TruthLens – Multimodal Fake News Detection System](https://github.com/vaishnaviPR-hash/TruthLens-Multimodal-Fake-News-Detection-System)
+- **Description:** A multimodal AI platform that analyzes textual and visual information to identify potentially misleading or fake news.
+- **Tech Stack:** Python, PyTorch, FastAPI, React.js, DistilBERT, ResNet50, CLIP, XGBoost
+- **Notes:** Combines multiple deep learning and machine learning models through a stacked ensemble learning approach.
+- **Status:** In Progress
+
+These projects are continuously evolving as new features, integrations, and improvements are developed.
 
 ---
 
