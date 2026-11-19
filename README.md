@@ -16,6 +16,9 @@ These are larger projects that demonstrate significant functionality, technical 
 - **Notes:** Developed a full-stack complaint management system with multi-organization support, authentication, and role-based access control.
 
 ### 2. TruthLens – Multimodal Fake News Detection System
+  <a href="https://truth-lens-multimodal-fake-news-det.vercel.app">
+    <strong>🌐 Try the Live Demo</strong>
+  </a>
 - **Description:** A multimodal AI platform that analyzes textual and visual information to identify potentially misleading or fake news.
 - **Tech Stack:** Python, PyTorch, FastAPI, React.js, DistilBERT, ResNet50, CLIP, XGBoost
 - **Notes:** Combines multiple deep learning and machine learning models through a stacked ensemble learning approach.
